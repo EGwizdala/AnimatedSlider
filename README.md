@@ -15,7 +15,7 @@ A super animated responsive hero slider.
 A hero page of a developers team made during the Advanced Frontend course. Little code, cool effect.
 
 ## Screenshots
-![Example screenshot](slider.png)
+![slider](slider.png)
 
 ## Technologies
 * HTML5
